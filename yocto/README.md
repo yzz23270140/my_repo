@@ -94,5 +94,3 @@ SSH / 密钥
 许可证与安全
 - 请勿把私钥或明文密码提交到仓库
 - 生产设备请使用 key-based authentication 并关闭密码登录
-
-如需我把更多内容（比如把 ipk/rpm 搜索与替代包示例、或 image-level 的 recipe 示例）也加入到 README，请告诉我需要哪些包或你的 Yocto 层信息.
